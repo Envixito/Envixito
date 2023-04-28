@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a Weather App<br>🌱 I’m currently learning<br>
-[![](https://visitcount.itsvg.in/api?id=Envixito&icon=8&color=1)](https://visitcount.itsvg.in)
+<p aline="left">[![](https://visitcount.itsvg.in/api?id=Envixito&icon=8&color=1)](https://visitcount.itsvg.in)</p>
 
 
 # 💻 Tech Stack:
